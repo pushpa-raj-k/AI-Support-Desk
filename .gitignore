@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+.env.example
+
+# Model files
+models/*.joblib
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
